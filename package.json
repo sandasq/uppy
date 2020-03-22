@@ -14,7 +14,7 @@
   "pre-commit": "lint:staged",
   "license": "MIT",
   "dependencies": {
-    "@uppy/aws-s3": "file:packages/@uppy/aws-s3",
+    "@uppy/aws-s3": "file:packages/sandasq/uppy/aws-s3",
     "@uppy/aws-s3-multipart": "file:packages/@uppy/aws-s3-multipart",
     "@uppy/companion": "file:packages/@uppy/companion",
     "@uppy/companion-client": "file:packages/@uppy/companion-client",
