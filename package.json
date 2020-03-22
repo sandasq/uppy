@@ -65,7 +65,7 @@
     "@uppy/utils": "file:packages/@uppy/utils",
     "@uppy/webcam": "file:packages/@uppy/webcam",
     "@uppy/xhr-upload": "file:packages/@uppy/xhr-upload",
-    "uppy": "file:packages/uppy",
+    "uppy": "file:packages/sandasq/uppy",
     "uppy.io": "file:website"
   },
   "devDependencies": {
