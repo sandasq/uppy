@@ -69,9 +69,9 @@ module.exports = class AwsS3Multipart extends Plugin {
   }
 
   assertHost () {
-    if (!this.opts.companionUrl) {
-      throw new Error('Expected a `companionUrl` option containing a Companion address.')
-    }
+    //if (!this.opts.companionUrl) {
+    //  throw new Error('Expected a `companionUrl` option containing a Companion address.')
+    //}
   }
 
   createMultipartUpload (file) {
