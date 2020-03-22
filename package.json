@@ -48,7 +48,7 @@
     "@uppy/webcam": "https://github.com/sandasq/uppy/tree/master/packages/@uppy/webcam",
     "@uppy/xhr-upload": "https://github.com/sandasq/uppy/tree/master/packages/@uppy/xhr-upload",
     "uppy": "https://github.com/sandasq/uppy/tree/master/packages/uppy",
-    "uppy.io": "file:website"
+    "uppy.io": "https://github.com/sandasq/uppy"
   },
   "devDependencies": {
     "@babel/cli": "7.8.4",
