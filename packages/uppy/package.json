@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transloadit/uppy.git"
+    "url": "git+https://github.com/sandasq/uppy.git"
   },
   "dependencies": {
     "@uppy/aws-s3": "file:../@uppy/aws-s3",
