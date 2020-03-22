@@ -415,7 +415,8 @@ module.exports = class AwsS3Multipart extends Plugin {
     const promises = fileIDs.map((id) => {
       const file = this.uppy.getFile(id)
       if (file.isRemote) {
-        return this.uploadRemote(file)
+        return this.uploadFile(file)
+        //return this.uploadRemote(file)
       }
       return this.uploadFile(file)
     })
